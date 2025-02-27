@@ -1,0 +1,100 @@
+html,body{
+   height: 100%;
+   margin: 0;
+   font-size: 16px;
+   font-family: "lato",sans-serif;
+   font-weight: 400;
+   line-height: 1.8em;
+   color: #666;
+}
+.pimg1{
+background-image: url(https://images.unsplash.com/photo-1470252649378-9c29740c9fa8?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+min-height:100%;
+position: relative;
+background-position:center;
+background-size:cover;
+background-repeat: no-repeat;
+background-attachment: fixed;
+
+}
+.ptext{
+  position: absolute;
+  top: 50%;
+  width: 100%;
+  text-align: center;
+  color: black;
+  font-size: 27px;
+  letter-spacing: 8px;
+  text-transform: uppercase;
+}
+.textBg{
+  background-color: #33433f;
+  color: whitesmoke;
+  padding: 20px;
+  
+}
+.section{
+padding:50px 80px;
+text-align: center;
+}
+.section-light{
+  background-color: #282e34;
+  color: #ddd;
+}
+.pimg2{
+ background-image: url(https://images.unsplash.com/photo-1498550744921-75f79806b8a7?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+ min-height: 100%;
+ position:relative;
+ background-position:center;
+ background-size: cover;
+ background-repeat: no-repeat;
+ background-attachment: fixed;
+
+
+
+}
+
+
+.ptext1{
+  text-align: center;
+  top:  50%;
+  position: absolute;
+  font-size: 27px;
+  letter-spacing: 8px;
+  width: 100%;
+  text-transform: uppercase;
+}
+.textBg1{
+  background-color: #33433f;
+  color: whitesmoke;
+  padding:20px;
+  font-size: 30px
+}
+
+.section-dark{
+  background-color: #282e34;
+  color: #ddd;
+}
+.bgimg3{
+  background-image: url(https://images.unsplash.com/photo-1500673922987-e212871fec22?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+  min-height: 100%;
+  background-position: center;
+  background-size: cover;
+  position: relative;
+  background-attachment: fixed;
+}
+.pbg{
+  position: absolute;
+  width: 100%;
+  text-align: center;
+  top:50%;
+  font-size: 27px;
+  letter-spacing: 8px;
+  
+}
+.textBg3{
+  background-color: #282e34;
+  color: whitesmoke;
+  padding: 10px;
+  text-transform: uppercase;
+}
